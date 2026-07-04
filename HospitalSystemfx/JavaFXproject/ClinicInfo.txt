@@ -1,0 +1,33 @@
+Doctors: Full Name:MUSTAFA AHMAD
+ ID:٤٤٥١١
+
+ years Of Experince:٨
+Specialization:ophthalmology
+appointment:[Ljavafxproject.Appointments;@1ddc4ec2
+ has Physical Therapy:true
+has Surgical Facilities:true
+ X Ray Price:١٥٠٫٠٠٠٠٠٠
+
+---------------------------------------------
+Doctors: Full Name:AHMED HAMAD
+ ID:١١٤٦٢٨
+
+ years Of Experince:٥
+Specialization:OrthoPedic
+appointment:[Ljavafxproject.Appointments;@4edde6e5
+ is Glasses Prescriptions: true
+ is ContactLens Fitting:true
+
+
+---------------------------------------------
+Doctors: Full Name:RASHA AMR
+ ID:٢٢٤٥٦
+
+ years Of Experince:١٠
+Specialization:General Medicine
+appointment:[Ljavafxproject.Appointments;@70177ecd
+ Surgeon:DR.Ali Mohammed 
+ Suergery Rooms:٤
+
+
+---------------------------------------------
